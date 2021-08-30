@@ -1,0 +1,306 @@
+{
+    "AppSyncCdkStarWars-DynamoEpisodeTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-01"
+                    },
+                    "title": {
+                        "S": "A New Hope"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-02"
+                    },
+                    "title": {
+                        "S": "The Empire Strikes Back"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-03"
+                    },
+                    "title": {
+                        "S": "Return of the Jedi"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-04"
+                    },
+                    "title": {
+                        "S": "The Phantom Menace"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-05"
+                    },
+                    "title": {
+                        "S": "Attack of the Clones"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "episode-06"
+                    },
+                    "title": {
+                        "S": "Revenge of the Sith"
+                    }
+                }
+            }
+        }
+    ],
+    "AppSyncCdkStarWars-DynamoPlanetTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-01"
+                    },
+                    "name": {
+                        "S": "Tatooine"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-02"
+                    },
+                    "name": {
+                        "S": "Alderaan"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-03"
+                    },
+                    "name": {
+                        "S": "Yavin IV"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-04"
+                    },
+                    "name": {
+                        "S": "Hoth"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-05"
+                    },
+                    "name": {
+                        "S": "Dagobah"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-06"
+                    },
+                    "name": {
+                        "S": "Bespin"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-07"
+                    },
+                    "name": {
+                        "S": "Endor"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-08"
+                    },
+                    "name": {
+                        "S": "Naboo"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-09"
+                    },
+                    "name": {
+                        "S": "Coruscant"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-10"
+                    },
+                    "name": {
+                        "S": "Kamino"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-11"
+                    },
+                    "name": {
+                        "S": "Geonosis"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-12"
+                    },
+                    "name": {
+                        "S": "Utapau"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-13"
+                    },
+                    "name": {
+                        "S": "Mustafar"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-14"
+                    },
+                    "name": {
+                        "S": "Kashyyyk"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-15"
+                    },
+                    "name": {
+                        "S": "Polis Massa"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-16"
+                    },
+                    "name": {
+                        "S": "Mygeeto"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-17"
+                    },
+                    "name": {
+                        "S": "Felucia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-18"
+                    },
+                    "name": {
+                        "S": "Cato Neimoidia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-19"
+                    },
+                    "name": {
+                        "S": "Saleucami"
+                    }
+                }
+            }
+        }
+    ]
+}

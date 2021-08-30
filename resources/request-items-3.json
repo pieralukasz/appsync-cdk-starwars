@@ -1,0 +1,196 @@
+{
+    "AppSyncCdkStarWars-DynamoPlanetTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-45"
+                    },
+                    "name": {
+                        "S": "Iridonia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-46"
+                    },
+                    "name": {
+                        "S": "Shili"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-47"
+                    },
+                    "name": {
+                        "S": "Kalee"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-48"
+                    },
+                    "name": {
+                        "S": "Umbara"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-49"
+                    },
+                    "name": {
+                        "S": "Tholoth"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-50"
+                    },
+                    "name": {
+                        "S": "Iktotch"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-51"
+                    },
+                    "name": {
+                        "S": "Quermia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-52"
+                    },
+                    "name": {
+                        "S": "Dorin"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-53"
+                    },
+                    "name": {
+                        "S": "Champala"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-54"
+                    },
+                    "name": {
+                        "S": "Mirial"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-55"
+                    },
+                    "name": {
+                        "S": "Serenno"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-56"
+                    },
+                    "name": {
+                        "S": "Concord Dawn"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-57"
+                    },
+                    "name": {
+                        "S": "Zolan"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-58"
+                    },
+                    "name": {
+                        "S": "Ojom"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-59"
+                    },
+                    "name": {
+                        "S": "Skako"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-60"
+                    },
+                    "name": {
+                        "S": "Muunilinst"
+                    }
+                }
+            }
+        }
+    ]
+}

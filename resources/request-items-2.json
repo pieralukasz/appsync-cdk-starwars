@@ -1,0 +1,304 @@
+{
+    "AppSyncCdkStarWars-DynamoPlanetTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-20"
+                    },
+                    "name": {
+                        "S": "Stewjon"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-21"
+                    },
+                    "name": {
+                        "S": "Eriadu"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-22"
+                    },
+                    "name": {
+                        "S": "Corellia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-23"
+                    },
+                    "name": {
+                        "S": "Rodia"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-24"
+                    },
+                    "name": {
+                        "S": "Nal Hutta"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-25"
+                    },
+                    "name": {
+                        "S": "Dantooine"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-26"
+                    },
+                    "name": {
+                        "S": "Bestine IV"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-27"
+                    },
+                    "name": {
+                        "S": "Ord Mantell"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-28"
+                    },
+                    "name": {
+                        "S": "unknown"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-29"
+                    },
+                    "name": {
+                        "S": "Trandosha"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-30"
+                    },
+                    "name": {
+                        "S": "Socorro"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-31"
+                    },
+                    "name": {
+                        "S": "Mon Cala"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-32"
+                    },
+                    "name": {
+                        "S": "Chandrila"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-33"
+                    },
+                    "name": {
+                        "S": "Sullust"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-34"
+                    },
+                    "name": {
+                        "S": "Toydaria"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-35"
+                    },
+                    "name": {
+                        "S": "Malastare"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-36"
+                    },
+                    "name": {
+                        "S": "Dathomir"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-37"
+                    },
+                    "name": {
+                        "S": "Ryloth"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-38"
+                    },
+                    "name": {
+                        "S": "Aleen Minor"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-39"
+                    },
+                    "name": {
+                        "S": "Vulpter"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-40"
+                    },
+                    "name": {
+                        "S": "Troiken"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-41"
+                    },
+                    "name": {
+                        "S": "Tund"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-42"
+                    },
+                    "name": {
+                        "S": "Haruun Kal"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-43"
+                    },
+                    "name": {
+                        "S": "Cerea"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "planet-44"
+                    },
+                    "name": {
+                        "S": "Glee Anselm"
+                    }
+                }
+            }
+        }
+    ]
+}
