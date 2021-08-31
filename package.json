@@ -6,12 +6,13 @@
   },
   "scripts": {
     "build": "tsc",
-    "watch": "tsc -w",
-    "test": "jest",
     "cdk": "cdk",
     "deploy": "yarn build && cdk deploy",
+    "diff": "cdk diff",
+    "initial": "./scripts/batch-write-data.sh",
     "perm": "chmod 755 ./scripts/*",
-    "initial": "./scripts/batch-write-data.sh"
+    "test": "jest --coverage",
+    "watch": "tsc -w"
   },
   "devDependencies": {
     "@aws-cdk/assert": "1.119.0",

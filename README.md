@@ -1,14 +1,17 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to StarWars Serverless Task
 
-This is a blank project for TypeScript development with CDK.
+The project was written in aws-sdk. Appsync and several resolvers were used.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+To get started, log in with `Leapp` app.
+
+## Start
+
+`yarn deploy` --> `yarn perm` --> `yarn initial` --> Go to aws console appsync and try.
 
 ## Useful commands
 
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
+ * `yarn deploy`   compile typescript to js and deploy our stack.
+ * `yarn test`   collect the test coverage and run some test
+ * `yarn initial`    fill our dynamodbs with initial values
+
+

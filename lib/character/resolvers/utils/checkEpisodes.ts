@@ -5,7 +5,7 @@ type Episode = {
 
 const checkEpisodes = (dynamoEpisodes: Episode[], episodes: string[]) => {
   const episodeTitles = dynamoEpisodes?.map(
-    (episode: { id: string; title: string }) => episode.title,
+    (episode: Episode) => episode.title,
   );
 
   if (episodes.length !== new Set(episodes).size) {

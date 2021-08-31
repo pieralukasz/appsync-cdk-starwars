@@ -11,6 +11,7 @@ const deleteCharacter = async (characterId: string): Promise<String | null> => {
 
   try {
     await docClient.delete(params).promise();
+    console.error({ HELLOOO: "HELLOOOO" });
     return "Successfully deleted";
   } catch (err) {
     console.error(err);

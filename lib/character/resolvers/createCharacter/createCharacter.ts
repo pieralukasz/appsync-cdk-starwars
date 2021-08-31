@@ -40,11 +40,11 @@ const createCharacter = async ({
   };
 
   const episodesParams = {
-    TableName: process.env.EPISODE_TABLE,
+    TableName: process.env.EPISODE_TABLE ?? "EPISODE_TABLE",
   };
 
   const params = {
-    TableName: process.env.CHARACTER_TABLE,
+    TableName: process.env.CHARACTER_TABLE ?? "CHARACTER_TABLE",
     Item: { id, name, episodes, planet },
   };
 
